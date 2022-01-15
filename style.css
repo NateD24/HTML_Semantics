@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(39, 114, 114);
+}
+h1{
+    text-align: center;
+
+}
+ul{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    justify-content: space-around;
+}
+p{
+    display:flex;
+    justify-content: center;
+}
+footer{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}
